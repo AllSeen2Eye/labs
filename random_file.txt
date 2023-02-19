@@ -1,1 +1,4 @@
 I am editing random file
+
+Now new line in testing branch
+
