@@ -2,8 +2,9 @@
 Usage: "./fib.exe 13"
 Output:
 
-0 is the 1 fibonacci number\n
-1 is the 2 fibonacci number\n
+0 is the 1 fibonacci number
+
+1 is the 2 fibonacci number
 1 is the 3 fibonacci number\n
 2 is the 4 fibonacci number\n
 3 is the 5 fibonacci number\n
