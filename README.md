@@ -1,5 +1,6 @@
 # Fibonacci written in C
 Usage: "./fib.exe 13"
+
 Output:
 
 0 is the 1 fibonacci number
